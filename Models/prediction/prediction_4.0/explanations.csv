@@ -1,0 +1,4 @@
+video,prediction,prob_real,ground_truth,peak_frames,regions,explanation
+fake/01_02__outside_talking_still_laughing__YVGY8LOK,fake,0.0,fake,"[13, 9, 14]","['mid-center area', 'mid-center area', 'mid-center area']",The presence of multiple individuals laughing conspicustaticly in a single mid-center region within three consecutive frames suggests staged behavior unrealistic for genuine social interaction. (100% confidence)
+fake/01_03__hugging_happy__ISF9SP4G,fake,0.0,fake,"[10, 25, 18]","['mid-center area', 'mid-right area', 'lower-center area']",The AI detected inconsistencies in facial expressions and incongruent body language between frames.
+fake/01_03__kitchen_pan__JZUXXFRB,fake,0.0,fake,"[0, 22, 3]","['mid-center area', 'mid-center area', 'mid-center area']","The AI detected inconsistencies in reflections and shadows within the central region of frames 0, 22, and 3."
