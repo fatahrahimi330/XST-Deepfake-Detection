@@ -88,7 +88,7 @@ The system consists of the following modules:
 
     preprocessing/
     models/
-    self_supervised/
+    supervised/
     training/
     evaluation/
     explainability/
