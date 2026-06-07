@@ -12,7 +12,7 @@ framework** that leverages **self-supervised learning and multimodal
 fusion** to detect manipulated videos shared on social media platforms.
 
 The proposed system analyzes both **spatial (frame-level)** and
-**temporal (motion-level)** information from videos. A **self-supervised
+**temporal (motion-level)** information from videos. A **supervised
 feature learning strategy** allows the model to learn meaningful
 representations without requiring large amounts of labeled data.
 Furthermore, **explainability techniques** are integrated to provide
