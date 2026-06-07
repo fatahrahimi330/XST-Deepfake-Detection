@@ -1,4 +1,4 @@
-# Explainable Spatiotemporal Deepfake Detection via Self-Supervised Integrated Fusion for Social Media Security
+# Explainable Spatiotemporal Deepfake Detection via Supervised Integrated Fusion for Social Media Security
 
 ## Overview
 
