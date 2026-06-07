@@ -29,7 +29,7 @@ applications.**
 
 -   Spatiotemporal deepfake detection using video frame and motion
     features
--   Self-supervised representation learning for improved feature
+-   supervised representation learning for improved feature
     extraction
 -   Integrated multimodal feature fusion architecture
 -   Explainable AI (XAI) for model interpretability
